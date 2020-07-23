@@ -20,7 +20,7 @@ node{
     slackSend baseUrl: 'https://hooks.slack.com/services/', 
       channel: 'test_jenkins_1', color: 'good', 
       message: 'Check slack notification', 
-      teamDomain: 'test-sn44454.slack.com', 
+      teamDomain: 'test-sn44454', 
       tokenCredentialId: 'Slack_Demo', 
       username: 'gopinath.m@prodapt.com'
   }
