@@ -25,8 +25,6 @@ node{
       tokenCredentialId: 'Slack_Demo', 
       username: 'gopinath.m@prodapt.com'
   }
-  
-  
-  
+
   
 }
