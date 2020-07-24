@@ -8,6 +8,7 @@ node{
     bat 'mvn package'
   }
   
+  
   stage('Email Notification'){
     mail bcc: '', body: 'Test_Jenkins_Email_Notification', cc: '', 
       from: 'gopinath.m@prodapt.com', replyTo: '', 
